@@ -24,8 +24,8 @@ module.exports = {
   networks: {
 		dev: { // Whatever network our local node connects to
 			network_id: "*", // Match any network id
-			host: "localhost",
-			port: 8545,
+			host: "54.191.208.70",
+			port: 30303,
 		},
 	  /*
 		mainnet: {  // Provided by Infura, load keys in .env file
