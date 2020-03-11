@@ -9,7 +9,7 @@ contract carecoin is ERC20Mintable {
 
 	constructor() public {
 		    _name = "carecoin";
-		    _symbol = "CARE";
+		    _symbol = "C4123";
 	}
 
 	function name() public view returns (string memory) {
